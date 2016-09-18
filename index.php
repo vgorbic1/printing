@@ -6,11 +6,11 @@
  * @version v2.0a
  *
  * TO DO: 1) Add and check the link to the file that was attached and put to the user's directory. The link is located in functions.php -> generateOrderDetailsTable().
- *		  2) Make sure that the path to uploads directory in settings.php -> $destination is set correctly.
+ *        2) Make sure that the path to uploads directory in settings.php -> $destination is set correctly.
  *        3) Make sure you have set the maximum size for file uploads in settings.php -> $maxFileSize.
  *        4) Make sure you have set all MIME types that are allowed to be uploaded in settings.php -> $fileTypesPermitted. Update file-types.html accordingly!
  *        5) Make sure that settings.php -> $staffEmail is correct.
- *		  6) Remove/comment system error handling below.
+ *        6) Remove/comment system error handling below.
  */
 
 // System Error Handling for debuggin
