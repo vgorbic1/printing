@@ -1,2 +1,3 @@
 # printing
-Application for downloading files to be printed
+Application for uploading files to be printed.
+Created for Madison College (MATC).
